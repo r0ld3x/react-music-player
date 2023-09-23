@@ -51,7 +51,7 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```shell
-    git clone https://github.com/r0ld3x/react-music-player.get
+    git clone https://github.com/r0ld3x/react-music-player.git
    ```
 
 2. Change directory to the project directory
